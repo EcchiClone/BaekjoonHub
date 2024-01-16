@@ -22,6 +22,7 @@ public class Solution {
             alphaIndex[s[i]] = i;
         }
         
+        // 시간복잡도 O(N)
         return answer;
     }
 }
