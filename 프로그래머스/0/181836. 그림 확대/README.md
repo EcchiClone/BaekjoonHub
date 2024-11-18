@@ -1,10 +1,10 @@
 # [level 0] 그림 확대 - 181836 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181836?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181836?language=csharp) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 2.87 ms
+메모리: 34.9 MB, 시간: 6.50 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 11월 19일 01:27:25
+2024년 11월 19일 01:27:46
 
 ### 문제 설명
 
