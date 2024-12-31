@@ -1,10 +1,10 @@
 # [level 2] 소수 찾기 - 42839 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42839) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=python3) 
 
 ### 성능 요약
 
-메모리: 31.3 MB, 시간: 2.79 ms
+메모리: 11.1 MB, 시간: 13.17 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 18일 09:46:23
+2024년 12월 31일 11:43:23
 
 ### 문제 설명
 
